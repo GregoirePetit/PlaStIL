@@ -1,8 +1,8 @@
 # PlaStIL
-This is the official code for [PlaStIL](https://gregoirepetit.github.io/projects/PlaStIL) (WACV2023): Feature Translation for Exemplar-Free Class-Incremental Learning
+This is the official code for [PlaStIL](https://gregoirepetit.github.io/projects/PlaStIL) (CoLLAs2023): Feature Translation for Exemplar-Free Class-Incremental Learning
 
 <p align="center">
-<img src="medias/teaser.png" />
+<img src="https://gregoirepetit.github.io/images/PlaStIL_thumbnail.png" />
 </p>
 
 ## Abstract
