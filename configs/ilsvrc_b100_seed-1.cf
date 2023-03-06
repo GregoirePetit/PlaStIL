@@ -1,0 +1,21 @@
+[config]  
+nb_classes        = 1000  
+dataset           = ilsvrc  
+first_batch_size  = 100  
+random_seed       = -1  
+num_workers       = 6  
+regul             = 1.0  
+toler             = 0.0001  
+epochs            = 180  
+list_root         = /home/users/gpetit/images_list_files/train100/  
+model_root        = /home/data/gpetit/PlaStIL_CoLLAs2023/models  
+feat_root         = /home/data/gpetit/PlaStIL_CoLLAs2023/features  
+classifiers_root  = /home/data/gpetit/PlaStIL_CoLLAs2023/classifiers  
+pred_root         = /home/data/gpetit/PlaStIL_CoLLAs2023/predictions  
+logs_root         = /home/data/gpetit/PlaStIL_CoLLAs2023/logs  
+mean_std          = /home/users/gpetit/images_list_files/datasets_mean_std.txt  
+batch_size        = 256 
+lr                = 0.1 
+momentum          = 0.9 
+weight_decay      = 0.0001 
+lrd               = 10 
