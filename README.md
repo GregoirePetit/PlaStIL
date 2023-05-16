@@ -34,7 +34,7 @@ If the installation fails, please try to install the packages manually with the 
 ```bash
 conda create -n plastil python=3.7
 conda activate plastil
-conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+conda install pytorch torchvision pytorch-cuda=11.6 -c pytorch -c nvidia
 pip install typing-extensions --upgrade
 conda install pandas
 pip install -U scikit-learn scipy matplotlib
